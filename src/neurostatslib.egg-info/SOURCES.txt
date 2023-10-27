@@ -1,0 +1,6 @@
+pyproject.toml
+src/neurostatslib.egg-info/PKG-INFO
+src/neurostatslib.egg-info/SOURCES.txt
+src/neurostatslib.egg-info/dependency_links.txt
+src/neurostatslib.egg-info/requires.txt
+src/neurostatslib.egg-info/top_level.txt
